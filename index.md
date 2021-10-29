@@ -1,37 +1,34 @@
-# Welcome to the Ronins
+# 47 Crypto Ronin
 
-You can use the [editor on GitHub](https://github.com/theronins/theronins.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Forty seven ronin
+In feudal-era Japan, the land was split into segments, each ruled by a warlord. In the Ako region, the Asano clan held the fort.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Asano has been treated badly by a powerful high ranking official named Kira. At some point, Kira provoked Asano into drawing his dagger and attacking him, landing a deep gash on his brow. This meant Asano had committed a serious crime and eventually Asano was forced to kill himself.
 
-### Markdown
+Upon his death, his region was almost completely dissolved and the 300 odd samurai who served his house became Ronin (masterless samurai, without honor).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The new ronin were instructed to sheath their blades, and never to take revenge for their master. Most of them relented, and disappeared into the country. 
+Only 47 remained defiant, and believed it was upon them to avenge their master and regain their honor.
 
-```markdown
-Syntax highlighted code block
+When the time finally came to finalize their revenge, the 47 ronin, with weapons, armor set upon Kira's household, and very efficiently captured the compound and beheaded Kira.
 
-# Header 1
-## Header 2
-### Header 3
+Kira's head was brought to Asano's grave as a final act of respect. The ronin then turned themselves in, knowing that they were to be executed for their crime. The officials in charge however, realized that in forsaking the country's laws, they had upheld the Bushido (Samurai Code), and thus granted them the honor of Seppuku as well. They died by their own blades at the grave of Asano, and are buried there today.
 
-- Bulleted
-- List
+For more details see [Forty-seven rōnin](https://en.wikipedia.org/wiki/Forty-seven_r%C5%8Dnin).
 
-1. Numbered
-2. List
+## 47 Crypto Ronin
 
-**Bold** and _Italic_ and `Code` text
+They had served their last master by avenging his death and finally committing Seppuku honorably.
+ 
+How and why they have been brought back to the cyber world are still mysteries.
 
-[Link](url) and ![Image](src)
-```
+Anyway, now they are looking for a new master to serve with their extreme loyalty and honor.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Each ronin is unique and has different skills to serve you. 
 
-### Jekyll Themes
+They can be your loyal guardian to protect you virtually or a good partner to travel metaverse, and a lot more.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theronins/theronins.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### How to get 47 Crypto Ronin
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Currently, the 47 Crypto Ronin can be hired only on [OpenSea](https://opensea.io).
