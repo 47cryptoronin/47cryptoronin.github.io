@@ -7,7 +7,7 @@ Asano has been treated badly by a powerful high ranking official named Kira. At 
 
 Upon his death, his region was almost completely dissolved and the 300 odd samurai who served his house became Ronin (masterless samurai, without honor).
 
-The new ronin were instructed to sheath their blades, and never to take revenge for their master. Most of them relented, and disappeared into the country. 
+The ronin were instructed to sheath their blades, and never to take revenge for their master. Most of them relented, and disappeared into the country. 
 Only 47 remained defiant, and believed it was upon them to avenge their master and regain their honor.
 
 When the time finally came to finalize their revenge, the 47 ronin, with weapons, armor set upon Kira's household, and very efficiently captured the compound and beheaded Kira.
