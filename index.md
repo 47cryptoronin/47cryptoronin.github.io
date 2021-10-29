@@ -26,7 +26,7 @@ Anyway, now they are looking for a new master to serve with their extreme loyalt
 
 Each ronin is unique and has different skills to serve you. 
 
-They can be your loyal guardian to protect you virtually or a good partner to travel metaverse, and a lot more.
+They can be your loyal guardian to protect you virtually or a good partner to travel the metaverse, and a lot more.
 
 ![47CryptoRonin](./assets/image/banner.png)
 ### How to get 47 Crypto Ronin
