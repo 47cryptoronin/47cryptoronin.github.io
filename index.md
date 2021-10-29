@@ -28,7 +28,7 @@ Each ronin is unique and has different skills to serve you.
 
 They can be your loyal guardian to protect you virtually or a good partner to travel metaverse, and a lot more.
 
-
+![Alt text](asset/image/banner.png?raw=true "banner")
 ### How to get 47 Crypto Ronin
 
 Currently, the 47 Crypto Ronin can be hired only on [OpenSea](https://opensea.io).
